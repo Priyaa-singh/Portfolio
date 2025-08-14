@@ -1,4 +1,5 @@
+clear
 # Portfolio
 Hi
 <br>
-Welcome to my profile
+Welcome to my profile (good)
